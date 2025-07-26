@@ -4,7 +4,7 @@ Este repositório contém a resolução de exercícios propostos na disciplina *
 
 Inclui:
 
-- Problemas resolvidos na plataforma [Beecrowd] (https://www.beecrowd.com.br/)
+- Problemas resolvidos na plataforma [Beecrowd](https://www.beecrowd.com.br/)
 - Uma lista complementar com **200 exercícios práticos** fornecida pelo professor em sala de aula.
 
 ## 📌 Objetivo
